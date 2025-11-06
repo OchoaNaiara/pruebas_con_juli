@@ -1,5 +1,5 @@
-object aWollok {
+object aWollodask {
     method howAreYou() {
-      return "I am Wolloktastic!"
+      return "Iam Woadsclloktastic!"
     }
 } 
